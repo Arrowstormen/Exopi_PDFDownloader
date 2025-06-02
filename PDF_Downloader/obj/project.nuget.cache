@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "v5ix9ztLCVs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mikkel\\source\\repos\\PDF_Downloader\\PDF_Downloader\\PDFDownloader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mikkel\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\Mikkel\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
+    "C:\\Users\\Mikkel\\.nuget\\packages\\moq\\4.20.72\\moq.4.20.72.nupkg.sha512",
+    "C:\\Users\\Mikkel\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
